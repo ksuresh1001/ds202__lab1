@@ -1,0 +1,20 @@
+---
+title: "partner_JohnBanta"
+author: "John Banta"
+date: "9/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Full Name
+John Banta
+## Github Username
+jdbanta
+## Most recent commit was add files via upload code 2a70485
+
+## Can knit with no error
+
+## Want to see a way that the URLs are shorter
