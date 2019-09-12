@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Name
+# partner Name
 
-My parteners name is John Banta
+My parteners name is John Banta and git account is jdbanta, my name is Karthikcharan Suresh, my github accoun name is ksuresh1001
 
 # My partners latest commit
 
-My partners latest git commit is the owner_JohnBanta rmarkdown file
+My partners latest git commit is "Please enter the commit message for your changes. Lines starting"
 
 # knit owners code
 
