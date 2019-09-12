@@ -1,0 +1,35 @@
+---
+title: "owner_KarthikcharanSuresh"
+author: "Karthikcharan Suresh"
+date: "9/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Name
+
+My name is Karthikcharan Suresh
+
+# My Major
+
+What I tell most people about my major is that I'm learning about data science, which has statistics, programing, high level maths, and machine learning.
+
+# Organizational Strategies
+
+I organize my day very well and the top three are 
+
+## I play my day in advanvce
+
+I have a planner where I write all the work that needs to done the next day.
+
+
+## Every night before going to sleep
+
+I read my goal everynight, short, medium and long just to keep me reminded where im running towards
+
+## I have a personal journal
+
+I write down the things that I did in a day, and try to analyze the wrongs I did and how to correct it.
